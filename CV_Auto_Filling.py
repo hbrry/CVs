@@ -23,8 +23,8 @@ def modify_word_document(input_docx, output_docx, position, company, industry):
 if __name__ == "__main__":
     input_docx = "Motivation Letter - Design.docx"  # Path to the input Design Word document
     # input_docx = "Motivation Letter - IT.docx"  # Path to the input IT Word document
-    output_docx = "/home/barry/workspace/github.com/hbbry/CVs/Motivation_Letter.docx"  # Path to save the modified Word document
+    output_docx = "/home/barry/Downloads/Cover_Letter.docx"  # Path to save the modified Word document
 
 
     # Modify the Word document
-    modify_word_document(input_docx, output_docx, "Body Design Engineer", "Toyota", "Automotive")
+    modify_word_document(input_docx, output_docx, "Structure Engineer", "Brussels Airlines", "Aviation")
