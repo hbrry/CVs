@@ -27,4 +27,4 @@ if __name__ == "__main__":
 
 
     # Modify the Word document
-    modify_word_document(input_docx, output_docx, "Body Design Engineer", "Toyota", "Automotive Industry")
+    modify_word_document(input_docx, output_docx, "Body Design Engineer", "Toyota", "Automotive")
